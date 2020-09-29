@@ -1,0 +1,10 @@
+
+Attributes:
+	fun - Values of objective function
+	jac - Jacobian
+	message - Description of the cause of the termination
+	nfev, njev - No. of evaluations of the objective functions and 
+		     its Jacobian
+	nit - No. of iterations
+	status, success - Termination and exi status
+	x - Solution of the optimization
